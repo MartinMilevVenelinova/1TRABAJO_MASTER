@@ -23,6 +23,7 @@ ProyectoCiberseguridad/
 │   ├── Hoja “Tablas_dinamicas” → Análisis y pivots de soporte
 │   └── Hoja “Dashboard” → Visualización final e interactiva
 ├── README.md                 # Este documento
+└── docs/                     # Word con documentacion adicional
 ```
 
 ---
