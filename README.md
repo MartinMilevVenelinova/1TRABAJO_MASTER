@@ -54,9 +54,9 @@ Solo necesitas:
 Estos indicadores se actualizan automáticamente al aplicar filtros en el dashboard.
 
 ### 🔹 Principales hallazgos
-- Las regiones de **América y Asia** concentran la mayor pérdida económica total.  
-- Los ataques más frecuentes y dañinos son **Ransomware** y **DDoS**.  
-- **AI-based Detection** y **Firewall** son los mecanismos de defensa con **mayor efectividad**, logrando más resoluciones rápidas.  
+- Las regiones de **Europa y Asia** concentran la mayor pérdida económica total.  
+- Los ataques más frecuentes y dañinos son **Phishing** y **DDoS**.  
+- **Encryption** y **Firewall** son los mecanismos de defensa con **mayor efectividad**, logrando más resoluciones rápidas.  
 - Los sectores **Telecomunicaciones** y **Retail** presentan las pérdidas más altas.  
 - La tendencia general muestra un **aumento constante de ataques** hasta 2023.
 
@@ -72,7 +72,7 @@ Estos indicadores se actualizan automáticamente al aplicar filtros en el dashbo
 
 ## 🔄 Próximos Pasos
 
-- Añadir un **mapa geográfico interactivo** para mostrar pérdidas por país.  
+- Añadir un **mapa geográfico interactivo** para mostrar pérdidas por país. (Se dificulto)  
 - Incluir **medidas estadísticas** adicionales (p. ej., mediana o desviación en tiempos de resolución).  
 - Publicar la versión avanzada del dashboard en **Power BI**.  
 - Incorporar un análisis de **tendencias de defensa** a lo largo de los años.
